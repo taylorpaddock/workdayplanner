@@ -13,7 +13,7 @@ Website can be accessed through my Gitlab profile via URL.
 Website can be viewed on desktop and meets all standards for accessibility.
 link: https://taylorpaddock.github.io/workdayplanner/
 
-![website screenshot](./assets/images/taylors-portfolio.jpg)
+![website screenshot](./assets/images/workdayplanner.png)
 
 ## Credits
 
