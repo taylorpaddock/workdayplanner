@@ -35,6 +35,10 @@ textarea {
     height: 80px;
     border-top: 1px solid white;
 }
+
+.input-group-text {
+    width: 15vh;
+}
   
 .hour {
     background-color: #ffffff;
@@ -63,6 +67,7 @@ textarea {
     border-bottom-right-radius: 15px;
     background-color: #06aed5;
     color: white;
+    width: 15vh;
 }
   
 .saveBtn i:hover {
